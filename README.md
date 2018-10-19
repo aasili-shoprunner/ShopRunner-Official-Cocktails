@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Rustic Fashion](#rustic-fashion)
 
-## Rustic Fashion
+### Rustic Fashion
 A twist on the classic old fashion, this maple flavored drink warms the heart.
 
 **Ingredients:**
