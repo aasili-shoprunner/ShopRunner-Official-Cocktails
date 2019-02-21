@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Rustic Fashion](#rustic-fashion)
+- [Ghetto Gangstacolada](#ghetto-gangstacolada)
 
 ### Rustic Fashion
 A twist on the classic old fashion, this maple flavored drink warms the heart.
@@ -23,3 +24,14 @@ A twist on the classic old fashion, this maple flavored drink warms the heart.
 - Pour cocktail into rocks glass
 - Garnish with orange wheel, cherry, or cinnamon stick
 
+### Ghetto Gangstacolada
+The ghetto way of enjoying a pina colada!
+
+#### Ingredients:
+- 1 oz cognac
+- 1 oz soda (7-Up, Sprite work best)
+- 1 splash of coconut rum (Malibu)
+
+#### Directions:
+- Mix well
+- Enjoy
